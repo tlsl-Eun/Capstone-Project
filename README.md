@@ -1,8 +1,10 @@
 # (Junior) 2023-2, Capstone Project
 <일별 승차 승객 수 시계열 예측 프로젝트>
+
 ## 0. Project Overview
+- 2023년 2학기 캡스톤 디자인으로 진행했던 프로젝트입니다. *A+*
 - **Project Period**: 2023.09 – 2023.12
-- **Forecast Horizon**: 6 months (180 days)
+- 사용 언어 : SAS, R, Python
 
 ## 1. 프로젝트 개요 (What & Why)
 
